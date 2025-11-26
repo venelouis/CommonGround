@@ -1,6 +1,8 @@
 # CommonGround
 https://www.wolframcloud.com/obj/venelouis/Published/CommonGround.nb
 
+<img src="img.png" width="150" alt="Descrição">
+
 ## CommonGround: Algorithmic Unity
 This is a Wolfram Language application designed to be deployed to the Wolfram Cloud. CommonGround is a web application built on the Wolfram Cloud designed to algorithmically dismantle the psychological barriers of borders. By taking any two nations as input, it generates a dynamic "Unity Report" that visualizes our shared humanity. The concept is simple but powerful: It takes two different nations (representing two users from different backgrounds) and algorithmically generates a "Unity Report." This report visualizes the connections between them—blending their flags, finding their shared languages, comparing their human statistics to show equality, and mapping the geodesic connection between them.
 ## Inspiration
